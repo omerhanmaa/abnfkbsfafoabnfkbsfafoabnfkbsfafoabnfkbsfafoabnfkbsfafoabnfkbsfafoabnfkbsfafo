@@ -1,12 +1,12 @@
 {
-  "name": "darkness",
+  "name": "wixua",
   "version": "1.0.0",
-  "description": "DarknessCode Slash Bot Altyapisi",
+  "description": "V14 ticket bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JustMoon",
+  "author": "BneWixua",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
