@@ -10,7 +10,6 @@ const client = new Client({
   retryLimit: 32
 });
 
-//BneWixua  discord.gg/npm
 
 global.client = client;
 client.commands = (global.commands = []);
