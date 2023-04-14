@@ -8,7 +8,6 @@ module.exports = {
   options: [],
   run: async (client, interaction) => {
 
-  //BneWixua  discord.gg/npm
 
     await interaction.deferReply();
     const { user, options, guild } = interaction;
