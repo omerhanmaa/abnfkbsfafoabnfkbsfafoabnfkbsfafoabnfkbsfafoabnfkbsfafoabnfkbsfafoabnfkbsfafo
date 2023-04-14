@@ -193,4 +193,3 @@ module.exports = async(client, interaction) => {
 }
   }
 
-//BneWixua  discord.gg/npm
