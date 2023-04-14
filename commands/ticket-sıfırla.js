@@ -15,8 +15,6 @@ module.exports = {
             .setDescription("`❌` | **Ticket sistemi ayarlı değil.**")
             .setFooter({text: "Sistemi açmak için /ticket-kur yazmanız yeterli."})
 
-//BneWixua  discord.gg/npm
-
         if (!ayarla) return interaction.reply({ embeds: [sistem_ayarlı_değil], ephemeral: true })
 
     const { user, customId, guild } = interaction;
