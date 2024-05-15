@@ -1,7 +1,7 @@
 {
   "name": "wixua",
   "version": "1.0.0",
-  "description": "V14 ticket bot",
+  "description": "Anka NW Ticket",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
